@@ -495,7 +495,7 @@ img{
   display: inline-block;
   overflow: hidden;
   padding: 25px 30px;
-  width: 100%
+  width: 100%;
 }
 .self-title{
 	font-size:26px;
@@ -998,7 +998,7 @@ img{
 	line-height:38px
 }
 .testimonials-carousel.owl-theme .owl-controls .owl-nav [class*="owl-"]:hover{
-	background:#f7465b;
+	background:#5d6ad0;
 	color:#FFF
 }
 .testimonial_area .owl-nav{
@@ -1343,7 +1343,7 @@ img{
 }
 
 #error{
-	color: #ff4b4e
+	color: #5d6ad0
 }
 
 #success{
@@ -1448,7 +1448,7 @@ img{
 	margin:0 5px
 }
 .banar-sub-title span a{
-	color:#f7465b
+	color:#5d6ad0
 }
 .section-title {
 	position:relative;
